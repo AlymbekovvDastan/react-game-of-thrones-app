@@ -1,4 +1,4 @@
-# Post App
+# React Game of thrones app
 
 This is a training project.
 
